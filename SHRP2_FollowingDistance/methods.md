@@ -1,9 +1,3 @@
-<style>
-  table th, table td {
-    padding: 8px;
-  }
-</style>
-
 <div style="width: 50%; margin: auto;">
 
 ## Introduction
@@ -204,24 +198,4 @@ The data is shown in two plots in the 'Data Viewer' tab. The first is a step plo
 </br>
 </div>
 
-<style>
-h1 {
-color: black; /* Change this to the desired color */
-}
-h2 {
-color: #861F41; /* Change this to the desired color */
-}
-h3 {
-color: #861F41; /* Change this to the desired color */
-}
-h4 {
-color: #861F41; /* Change this to the desired color */
-}
-h5 {
-color: #861F41; /* Change this to the desired color */
-}
-h6 {
-color: #861F41; /* Change this to the desired color */
-}
-</style>
 
