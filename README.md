@@ -1,5 +1,5 @@
 ## About
-This github page hosts the underlying data sets used in the interactive visualization tool applications developed as part of the project entitled "Summarizing Normative Driving Behavior From Large-Scale NDS Datasets for Vehicle System Development."-
+This github page hosts the underlying data sets used in the interactive visualization tool applications developed as part of the project entitled "Summarizing Normative Driving Behavior From Large-Scale NDS Datasets for Vehicle System Development."
 
 ## Interactive Analytics Tools
 Access the interactive analytics tools at the [landing page](https://dataviz.vtti.vt.edu/SHRP2_Driving_Distributions/).
