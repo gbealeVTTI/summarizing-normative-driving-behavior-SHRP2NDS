@@ -16,7 +16,7 @@ This work was funded by the [National Surface Transportation Safety Center for E
 A video demonstrating the basic functionality of the interactive analytics tools is shown [here](https://video.vt.edu/media/A+demonstration+of+the+SHRP2+Distribution+Tools/1_i1v0nnkz).
 
 ## Accompanying Paper
-The data and methods used to generate the datasets for the interactive visualization tool are described in a paper that will be published in the IEEE Transactions on Intelligent Transportation Systems. A pre-print version is available [here](https://arxiv.org/abs/2507.16839).
+The data and methods used to generate the datasets for the interactive visualization tool are described in a paper that is accepted to the 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC 2025). A pre-print version is available [here](https://arxiv.org/abs/2507.16839).
 
 ## Citation
 If you use these datasets or methodologies, please use the following citation:
